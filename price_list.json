@@ -1,92 +1,242 @@
 [
     {
-        "Telkomsel": {
-            "5000": 5500,
-            "10000": 10500,
-            "20000": 20500,
-            "25000": 26000,
-            "50000": 51000,
-            "100000": 102000,
-            "150000": 152000,
-            "200000": 202000,
-            "250000": 252000,
-            "300000": 302000,
-            "500000": 505000
-        }
+        "operator": "Telkomsel",
+        "harga": 5400,
+        "nominal": 5000
     },
     {
-        "XL Axiata": {
-            "5000": 5500,
-            "10000": 10500,
-            "20000": 20500,
-            "25000": 26000,
-            "50000": 51000,
-            "100000": 102000,
-            "150000": 152000,
-            "200000": 202000,
-            "250000": 252000,
-            "300000": 302000,
-            "500000": 505000
-        }
+        "operator": "Indosat Ooredoo",
+        "harga": 5400,
+        "nominal": 5000
     },
     {
-        "Indosat Ooredoo": {
-            "5000": 5500,
-            "10000": 10500,
-            "20000": 20500,
-            "25000": 26000,
-            "50000": 51000,
-            "100000": 102000,
-            "150000": 152000,
-            "200000": 202000,
-            "250000": 252000,
-            "300000": 302000,
-            "500000": 505000
-        }
+        "operator": "Smartfren",
+        "harga": 5400,
+        "nominal": 5000
     },
     {
-        "Tri": {
-            "5000": 5500,
-            "10000": 10500,
-            "20000": 20500,
-            "25000": 26000,
-            "50000": 51000,
-            "100000": 102000,
-            "150000": 152000,
-            "200000": 202000,
-            "250000": 252000,
-            "300000": 302000,
-            "500000": 505000
-        }
+        "operator": "Axis",
+        "harga": 10400,
+        "nominal": 10000
     },
     {
-        "Smartfren": {
-            "5000": 5500,
-            "10000": 10500,
-            "20000": 20500,
-            "25000": 26000,
-            "50000": 51000,
-            "100000": 102000,
-            "150000": 152000,
-            "200000": 202000,
-            "250000": 252000,
-            "300000": 302000,
-            "500000": 505000
-        }
+        "operator": "Indosat Ooredoo",
+        "harga": 10500,
+        "nominal": 10000
     },
     {
-        "Axis": {
-            "5000": 5500,
-            "10000": 10500,
-            "20000": 20500,
-            "25000": 26000,
-            "50000": 51000,
-            "100000": 102000,
-            "150000": 152000,
-            "200000": 202000,
-            "250000": 252000,
-            "300000": 302000,
-            "500000": 505000
-        }
+        "operator": "Telkomsel",
+        "harga": 10500,
+        "nominal": 10000
+    },
+    {
+        "operator": "Three",
+        "harga": 10900,
+        "nominal": 10000
+    },
+    {
+        "operator": "XL",
+        "harga": 10900,
+        "nominal": 10000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 20400,
+        "nominal": 20000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 20400,
+        "nominal": 20000
+    },
+    {
+        "operator": "Axis",
+        "harga": 20400,
+        "nominal": 20000
+    },
+    {
+        "operator": "Smartfren",
+        "harga": 20400,
+        "nominal": 20000
+    },
+    {
+        "operator": "XL",
+        "harga": 20400,
+        "nominal": 20000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 30400,
+        "nominal": 30000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 30400,
+        "nominal": 30000
+    },
+    {
+        "operator": "Three",
+        "harga": 30400,
+        "nominal": 30000
+    },
+    {
+        "operator": "XL",
+        "harga": 30400,
+        "nominal": 30000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 40400,
+        "nominal": 40000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 40400,
+        "nominal": 40000
+    },
+    {
+        "operator": "Axis",
+        "harga": 40400,
+        "nominal": 40000
+    },
+    {
+        "operator": "XL",
+        "harga": 40400,
+        "nominal": 40000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 50400,
+        "nominal": 50000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 50400,
+        "nominal": 50000
+    },
+    {
+        "operator": "Three",
+        "harga": 50400,
+        "nominal": 50000
+    },
+    {
+        "operator": "XL",
+        "harga": 50400,
+        "nominal": 50000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 60400,
+        "nominal": 60000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 60400,
+        "nominal": 60000
+    },
+    {
+        "operator": "Axis",
+        "harga": 60400,
+        "nominal": 60000
+    },
+    {
+        "operator": "Smartfren",
+        "harga": 60400,
+        "nominal": 60000
+    },
+    {
+        "operator": "XL",
+        "harga": 60400,
+        "nominal": 60000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 70400,
+        "nominal": 70000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 70400,
+        "nominal": 70000
+    },
+    {
+        "operator": "Three",
+        "harga": 70400,
+        "nominal": 70000
+    },
+    {
+        "operator": "XL",
+        "harga": 70400,
+        "nominal": 70000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 80400,
+        "nominal": 80000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 80400,
+        "nominal": 80000
+    },
+    {
+        "operator": "Axis",
+        "harga": 80400,
+        "nominal": 80000
+    },
+    {
+        "operator": "Smartfren",
+        "harga": 80400,
+        "nominal": 80000
+    },
+    {
+        "operator": "XL",
+        "harga": 80400,
+        "nominal": 80000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 90400,
+        "nominal": 90000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 90400,
+        "nominal": 90000
+    },
+    {
+        "operator": "Three",
+        "harga": 90400,
+        "nominal": 90000
+    },
+    {
+        "operator": "XL",
+        "harga": 90400,
+        "nominal": 90000
+    },
+    {
+        "operator": "Indosat Ooredoo",
+        "harga": 100400,
+        "nominal": 100000
+    },
+    {
+        "operator": "Telkomsel",
+        "harga": 100400,
+        "nominal": 100000
+    },
+    {
+        "operator": "Axis",
+        "harga": 100400,
+        "nominal": 100000
+    },
+    {
+        "operator": "Smartfren",
+        "harga": 100400,
+        "nominal": 100000
+    },
+    {
+        "operator": "XL",
+        "harga": 100400,
+        "nominal": 100000
     }
 ]
